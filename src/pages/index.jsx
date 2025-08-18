@@ -16,6 +16,7 @@ export default function Home() {
         <About />
         <Skills />
         <Projects />
+        <Exp />
         <div className="fixed bottom-1 right-1 lg:hidden">
           <SmNav />
         </div>

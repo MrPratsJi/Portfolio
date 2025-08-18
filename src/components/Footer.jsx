@@ -17,21 +17,21 @@ export default function Footer() {
     >
       <div className="flex flex-col lg:flex-row items-center gap-5 justify-between w-full">
         <div className="flex flex-col justify-start w-full lg:w-fit ">
-          <h1 className="text-2xl font-bold ">Pranay Gupta</h1>
+          <h1 className="text-2xl font-bold ">Pratyush Gupta</h1>
           <div className="mt-2">
             <span className=" hover:text-[#FD8D14] font-bold cursor-pointer">
-              AI/ML Developer
+              Fullstack Web Developer
             </span>{' '}
             | {` `}
             <span className=" hover:text-[#FD8D14] font-bold cursor-pointer">
-              Designer
+              AI/ML Developer
             </span>{' '}
             | {` `}
             <span className=" hover:text-[#FD8D14] font-bold cursor-pointer">
               Tech Enthusiast
             </span>
           </div>
-          <p className="">Pranay Gupta © Copyright 2024</p>
+          <p className="">Pratyush Gupta © Copyright 2025</p>
         </div>
         <div className="flex gap-4 lg:gap-6 font-semibold justify-between w-full lg:w-fit">
           <div className="flex flex-col gap-3">
@@ -48,7 +48,7 @@ export default function Footer() {
           <div className="flex flex-col gap-3">
             <Link to="/confetti">Confetti</Link>
             <Link to="/resources">Resources</Link>
-            <Link to="https://github.com/pran-aeyyy" target="_blank">
+            <Link to="https://github.com/MrPratsJi" target="_blank">
               GitHub
             </Link>
             <Link to="/copyright">Copyright</Link>
@@ -63,7 +63,7 @@ export default function Footer() {
         <Link
           target="_blank"
           className="group"
-          to="https://github.com/pran-aeyyy"
+          to="https://github.com/MrPratsJi"
         >
           <BsGithub className="text-2xl inline-block mr-2 group-hover:text-[#000000]" />
           GitHub
@@ -71,7 +71,7 @@ export default function Footer() {
         <Link
           target="_blank"
           className="group"
-          to="https://www.linkedin.com/in/pranay-gupta-45128721b/"
+          to="https://www.linkedin.com/in/pratyush-gupta24/"
         >
           <BsLinkedin className="text-2xl inline-block mr-2 group-hover:text-[#1565c0]" />
           LinkedIn

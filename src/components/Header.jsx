@@ -55,7 +55,7 @@ export default function Header() {
           className="text-3xl font-bold uppercase font-mono"
           style={{ fontFamily: 'Pacifico, cursive' }}
         >
-          Pran.aeyyy
+          Pratyush
         </h1>
       </Link>
       {isHome && (

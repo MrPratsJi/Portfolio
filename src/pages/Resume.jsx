@@ -24,15 +24,15 @@ export default function Resume() {
   const handleDownload = () => {
     if (selectedIndex === 0) {
       const a = document.createElement('a')
-      a.href = '/resume/PranayGupta_resume.pdf'
-      a.download = 'Pranay-Gupta-Resume.pdf'
+      a.href = '/resume/PratyushGupta_resume.pdf'
+      a.download = 'Pratyush-Gupta-Resume.pdf'
       document.body.appendChild(a)
       a.click()
       document.body.removeChild(a)
     } else {
       const a = document.createElement('a')
       a.href = '/resume/resumeImg.png'
-      a.download = 'Pranay-Gupta-Resume.png'
+      a.download = 'Pratyush-Gupta-Resume.png'
       document.body.appendChild(a)
       a.click()
       document.body.removeChild(a)
@@ -41,7 +41,7 @@ export default function Resume() {
 
   const handleView = () => {
     if (selectedIndex === 0) {
-      window.open('/resume/PranayGupta_resume.pdf', '_blank')
+      window.open('/resume/PratyushGupta_resume.pdf', '_blank')
     } else {
       window.open('', '_blank')
     }

@@ -46,13 +46,13 @@ export default function Educations() {
           <Step>
             <StepLabel className="">
               <Typography sx={{ color: colorTheme.primaryText }}>
-                Allenhouse Public School -- Class 10th
+                S S D Education Centre -- Class 10th
               </Typography>
             </StepLabel>
             <StepContent>
               <p className="text-lg">
-                I passed my secondary examination from Allenhouse Public School
-                in 2019. I scored 96% in my secondary examination.
+                I passed my secondary examination from S S D Education Centre in
+                2020. I scored 92.3% in my secondary examination.
               </p>
               <Box sx={{ mb: 2 }}>
                 <div>
@@ -77,13 +77,14 @@ export default function Educations() {
           <Step>
             <StepLabel sx={{ color: colorTheme.primaryText }}>
               <Typography sx={{ color: colorTheme.primaryText }}>
-                Allenhouse Public School -- Class 12th
+                S S D Education Centre -- Class 12th
               </Typography>
             </StepLabel>
             <StepContent>
               <p className="text-lg">
-                I passed my higher secondary examination from Allenhouse Public
-                School in 2021. I scored 91% in my secondary examination.
+                I passed my higher secondary examination from S S D Education
+                Centre in 2021. I scored 84.6% in my higher secondary
+                examination.
                 <br />
               </p>
               <Box sx={{ mb: 2 }}>
@@ -109,13 +110,13 @@ export default function Educations() {
           <Step>
             <StepLabel sx={{ color: colorTheme.primaryText }}>
               <Typography sx={{ color: colorTheme.primaryText }}>
-                MIT-WPU, Pune -- ECE(AI/ML)
+                Pranveer Singh Institute of Technology, Kanpur -- CSE(IOT)
               </Typography>
             </StepLabel>
             <StepContent>
               <p className="text-lg">
-                I am cuurently pursuing a Bachelors degree in Technology in the
-                field of AI-ML. I am currently in the last sem of my college.
+                I am currently pursuing a Bachelors degree in Technology in the
+                field of IOT. I am currently in the 7th semester of my college.
               </p>
               <Box sx={{ mb: 2 }}>
                 <div>

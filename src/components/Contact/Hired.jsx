@@ -46,7 +46,7 @@ export default function Hired() {
               <img src={profileLink} className="max-w-[150px] w-full" alt="" />
               <Typography variant="p">
                 <Link
-                  to="https://www.linkedin.com/in/pranay-gupta-45128721b/"
+                  to="https://www.linkedin.com/in/pratyush-gupta24/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-700 font-bold"

@@ -45,13 +45,14 @@ export default function About() {
       >
         <h1 className="text-3xl mb-4 font-bold">About</h1>
         <p className="text-lg">
-          Hi I am Pranay, an AI Engineer & Developer with a strong passion for
+          Hi I am Pratyush, an AI Engineer & Developer with a strong passion for
           building intelligent systems that bridge the gap between technology
           and real-world impact. My expertise lies in AI, NLP, and Computer
           Vision, where I create solutions that enhance user experiences and
-          drive innovation. Currently, I am working on Smart Glasses for the
-          Visually Impaired and NLP-powered Applications, pushing the boundaries
-          of assistive technology and automation.
+          drive innovation. Currently, I am working on EmoSense - A Engagement
+          Analyzer for the Emotion detection as well as engagement time on the
+          screen and NLP-powered Applications, pushing the boundaries of
+          assistive technology and automation.
         </p>
         <div className="w-full flex justify-center mt-8">
           <Button

@@ -17,7 +17,7 @@ export default function Hobbies() {
         <div className="">
           <p className="text-xl lg:text-start ">
             In my free time, I love indulging in activities that keep me active
-            and relaxed. One of my favorite pastimes is playing football—I enjoy
+            and relaxed. One of my favorite pastimes is playing cricket—I enjoy
             the teamwork, strategy, and adrenaline rush that comes with being on
             the field. Music is another passion of mine; it helps me unwind and
             sets the perfect mood after a long day. I also find swimming
@@ -28,7 +28,7 @@ export default function Hobbies() {
         </div>
         <ImageList>
           <HobbiyCard
-            title="Playing Football"
+            title="Playing Cricket"
             description="I love playing football"
             image="/images/playing-football.jpg"
           />

@@ -54,9 +54,11 @@ export default function Intro() {
           <BounceSpan>P</BounceSpan>
           <BounceSpan>R</BounceSpan>
           <BounceSpan>A</BounceSpan>
-          <BounceSpan>N</BounceSpan>
-          <BounceSpan>A</BounceSpan>
+          <BounceSpan>T</BounceSpan>
           <BounceSpan>Y</BounceSpan>
+          <BounceSpan>U</BounceSpan>
+          <BounceSpan>S</BounceSpan>
+          <BounceSpan>H</BounceSpan>
           <BounceSpan>{` `}</BounceSpan>
           <BounceSpan>G</BounceSpan>
           <BounceSpan>U</BounceSpan>

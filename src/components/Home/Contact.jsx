@@ -49,15 +49,15 @@ export default function Contact() {
         <h1 className="text-3xl mb-4 font-bold">{`Let's`} Connect! </h1>
         <div className="flex flex-wrap lg:flex-row gap-4 items-center justify-center ">
           <ContactCard
-            text={'in/pranaygupta'}
+            text={'in/pratyushgupta'}
             icon={linkedInIcon}
-            link={'https://www.linkedin.com/in/pranay-gupta-45128721b/'}
+            link={'https://www.linkedin.com/in/pratyush-gupta24/'}
           />
           <ContactCard
-            text={'@iamPranayGupta'}
+            text={'@iamPratyushGupta'}
             icon={githubIcon}
             dropShadow={`0 0 10px #00000055`}
-            link={`https://github.com/pran-aeyyy`}
+            link={`https://github.com/MrPratsJi`}
           />
         </div>
         <div className="w-full flex justify-center mt-4">
