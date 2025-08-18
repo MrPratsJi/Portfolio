@@ -8,4 +8,4 @@ This project is a personal portfolio website that showcases my work and skills. 
 
 ## Deployed App Link:
 
--
+- https://portfolio-eta-teal-54.vercel.app/
